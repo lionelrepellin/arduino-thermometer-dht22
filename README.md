@@ -8,4 +8,4 @@ Add some leds to indicate the temperature level as defined :
 - yellow : from 23 to 26 degrees
 - red : over 26 degrees
 
-![Thermometer with DHT22](https://github.com/lionelrepellin/arduino-thermometer-dht22/blob/master/fritzing/thermometer_with_dht22.png "Thermometer with DHT22")
+![Thermometer with DHT22](https://github.com/lionelrepellin/arduino-thermometer-dht22/blob/master/Fritzing/thermometer_with_dht22.png "Thermometer with DHT22")
